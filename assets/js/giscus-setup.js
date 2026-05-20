@@ -9,7 +9,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "ahammed-ullah/homepage_draft",
+    "data-repo": "ahammed-ullah/ahammed-ullah.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
