@@ -1,4 +1,8 @@
-# al-folio
+# Ahammed Ullah
+
+Source repository for my personal academic homepage.
+
+This website is based on the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
 
 <div align="center">
 
